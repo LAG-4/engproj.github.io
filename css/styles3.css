@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: Comic Sans MS;
+    background-color: #0D0000;
+
+}
+
+.intro{
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 200px;
+    font-size: 30px;
+    
+    border-radius: 50px;
+    width: 75%;
+    height: 450px;
+    color: #8C775E;
+    text-align: center;
+}
+
+.intro2{
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 200px;
+    font-size: 30px;
+    border-radius: 50px;
+    width: 75%;
+    height: 450px;
+    color: #8C775E;
+    text-align: left;
+}
+
+b{
+    font-size: 45px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #000;
+}
+  
+li {
+    float: left;
+}
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+  
+li a:hover {
+    background-color: #111;
+}

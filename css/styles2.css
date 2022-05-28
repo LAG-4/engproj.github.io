@@ -1,0 +1,219 @@
+body {
+    margin-top: 30px;
+    margin: 0;
+    text-align: center;
+    font-family: Bahnschrift;
+    background-color: #111;
+}
+
+h1 {
+    color: #BFAF80;
+    font-size: 20px;
+    margin: 0px;
+    font-family: 'Architects Daughter', cursive;
+}
+
+h2 {
+    color: #BFAF80;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+    margin: 0px;
+}
+
+h3 {
+    color: #BFAF80;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 35px;
+    align-content: center;
+}
+h5 {
+    font-size: 40px;
+    padding-bottom: 0px;
+    color: #BFAF80;
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-family: Bradley Hand ITC;
+}
+
+.small{
+    font-size: 25px;
+}
+
+.stat{
+    font-size: 20px;
+    text-align: right;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #000;
+}
+  
+li {
+    float: left;
+}
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+  
+li a:hover {
+    background-color: #111;
+}
+
+.logo{
+    width: 100px;
+    height: 100px;
+    border-radius: 25%;
+}
+
+.logo_position {
+    position: absolute;
+    left: 50px;
+}
+
+p {
+    line-height: 2;
+    font-size: 25px;
+    color: #BFAF80;
+}
+
+hr {
+    border: dashed #203b3b 6px;
+    border-bottom: none;
+    width: 10%;
+    margin: 100px auto;
+}
+
+a:link {
+    color: #BFAF80;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #BFAF80;
+    text-decoration: none;
+}
+
+a:active {
+    color: #BFAF80;
+    text-decoration: none;
+}
+
+.namaste {
+    font-family: 'Rhodium Libre', serif;
+    position: relative;
+}
+
+.drive_link {
+    color: #BFAF80;
+    font-family: 'Open Sans', sans-serif;
+} 
+
+.navbar {
+    background-color: #BABFBE;
+    font-family: 'Open Sans', sans-serif;
+    margin: 20px auto;
+}
+
+.upper_side {
+    background-color: #BFAF80;
+    position: relative;
+    padding-top: 5px;
+    margin: 0px;
+    height: 35px;
+}
+
+.middle_portion {
+    margin: 100px 0 0 0;
+}
+
+.my_skills {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.pro {
+    text-decoration: line-through;
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+}
+
+.contact-me {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.my-image{
+    border-radius: 100%;
+    width: 150px;
+    height: 150px;
+}
+
+
+.Skill_1 {
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+    margin-top: 20px;
+}
+
+.Skill_2 {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.Skill_3 {
+    width: 30%;
+    float: left;
+    margin-right: 30px;
+    margin-top: 20px;
+}
+
+.footer{
+    height: 50px;
+    background-color: #0D0D0D;
+    
+    
+    
+}
+
+.link_1 {
+    position: relative;
+    right: 35px;
+    top: 3px;
+    width: 40px;
+    height: 40px;
+    font-size: 25px;
+}
+
+.link_2 {
+    position: relative;
+    top: 3px;
+    width: 40px;
+    height: 40px;
+    font-size: 25px;
+}
+
+.link_3 {
+    position: relative;
+    left: 35px;
+    top: 3px;
+    width: 40px;
+    height: 40px;
+    font-size: 25px;
+}
